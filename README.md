@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository
+This is my first repository.
 Cool to be here and getting gitHub and GIT familiar. Quite new to coding....
